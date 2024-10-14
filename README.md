@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ydnenos
+- 👀 I’m interested in os developing
+- 🌱 I’m currently learning more advanced asm
+- 💞️ I’m looking to collaborate on nothing rn
+- 😄 Pronouns: he/him
